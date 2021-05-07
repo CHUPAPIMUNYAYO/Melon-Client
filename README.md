@@ -1,7 +1,7 @@
 # Melon Client 
 Melon Client's download 
 
-A video of how to install Melon: https://www.youtube.com/watch?v=x0eh_GfL1Qk  not made by me btw 
+A video of how to install Melon: https://www.youtube.com/watch?v=x0eh_GfL1Qk  not made by me btw. May change for new and old versions
 
 Downloads are in releases. https://github.com/CHUPAPIMUNYAYO/Melon-Client/releases Don't download the source code, unless you want to
 
